@@ -8,6 +8,7 @@ I built this code using the mini project folder structure and in collabaration w
 
 ## Screenshot
 
+![Screenshot (38)](https://github.com/natesanow/social-network-api/assets/152323081/1d6c4723-1961-468f-b088-aa58c59269ed)
 
 
 ## Github
